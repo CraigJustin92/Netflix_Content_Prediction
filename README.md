@@ -18,9 +18,11 @@ The primary objective is to develop predictive models that streamline the conten
 
 3. **Feature Engineering and Selection**: Engineer new features and select the most relevant ones for predictive modeling, ensuring alignment with Netflix's strategic objectives.
 
-4. **Model Development and Evaluation**: Develop predictive models using several machine learning algorithms. Evaluate models using metrics such as accuracy, precision, recall, and F1 score.
+4. **Hypothesis Testing using Chi-squared**: Conduct hypothesis testing using the chi-squared test to analyze associations between categorical variables, such as genre and fast-addition to the platform.
 
-5. **Model Interpretation and Insights**: Collaborate with Netflix's content acquisition and strategy teams to interpret model results and derive actionable insights.
+5. **Model Development and Evaluation**: Develop predictive models using several machine learning algorithms. Evaluate models using metrics such as accuracy, precision, recall, and F1 score.
+
+6. **Model Interpretation and Insights**: Collaborate with Netflix's content acquisition and strategy teams to interpret model results and derive actionable insights.
 
 ## Dataset
 
